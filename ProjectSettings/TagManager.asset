@@ -50,6 +50,12 @@ TagManager:
   - name: Decoration
     uniqueID: 1376180983
     locked: 0
+  - name: Water
+    uniqueID: 556958567
+    locked: 0
+  - name: Other
+    uniqueID: 2980516409
+    locked: 0
   - name: Ground
     uniqueID: 3531536887
     locked: 0
