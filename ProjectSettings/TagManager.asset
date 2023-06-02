@@ -8,12 +8,12 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
-  - 
-  - 
+  - FlameGround
+  - Back
+  - Front
   - 
   - 
   - 
@@ -44,6 +44,9 @@ TagManager:
   - name: Background
     uniqueID: 601269777
     locked: 0
+  - name: GroundBack
+    uniqueID: 1456898561
+    locked: 0
   - name: Buildings
     uniqueID: 1632132691
     locked: 0
@@ -61,4 +64,7 @@ TagManager:
     locked: 0
   - name: Advenured
     uniqueID: 909551217
+    locked: 0
+  - name: Effect
+    uniqueID: 2518753017
     locked: 0
