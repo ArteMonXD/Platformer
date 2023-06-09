@@ -2,13 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EndAnimationEvent : MonoBehaviour, IEventHundle
+public class EndAnimationEvent : EventHundle
 {
-    public event IEventHundle.EventHundle _event;
-
-    public void Execute()
+    public override void Execute()
     {
         gameObject.SetActive(false);
-        _event?.Invoke();
+        base.Execute();
     }
 }

@@ -347,7 +347,7 @@ GameObject:
   - component: {fileID: 6492525}
   - component: {fileID: 6492524}
   - component: {fileID: 6492527}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -620,7 +620,7 @@ GameObject:
   - component: {fileID: 14048991}
   - component: {fileID: 14048990}
   - component: {fileID: 14048993}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_41 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -811,7 +811,7 @@ GameObject:
   - component: {fileID: 14927730}
   - component: {fileID: 14927729}
   - component: {fileID: 14927732}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_12 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1330,7 +1330,7 @@ GameObject:
   - component: {fileID: 22649672}
   - component: {fileID: 22649671}
   - component: {fileID: 22649674}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1602,7 +1602,7 @@ GameObject:
   m_Component:
   - component: {fileID: 31024856}
   - component: {fileID: 31024855}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1768,7 +1768,7 @@ GameObject:
   - component: {fileID: 36697372}
   - component: {fileID: 36697374}
   - component: {fileID: 36697373}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TX Village Props - Platform R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2065,7 +2065,7 @@ GameObject:
   m_Component:
   - component: {fileID: 46361167}
   - component: {fileID: 46361166}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2147,7 +2147,7 @@ GameObject:
   m_Component:
   - component: {fileID: 50039716}
   - component: {fileID: 50039715}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (44)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2264,7 +2264,7 @@ GameObject:
   m_Component:
   - component: {fileID: 52033549}
   - component: {fileID: 52033548}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2743,7 +2743,7 @@ GameObject:
   - component: {fileID: 67420542}
   - component: {fileID: 67420541}
   - component: {fileID: 67420544}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3016,7 +3016,7 @@ GameObject:
   - component: {fileID: 74333670}
   - component: {fileID: 74333669}
   - component: {fileID: 74333672}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3288,7 +3288,7 @@ GameObject:
   m_Component:
   - component: {fileID: 84853739}
   - component: {fileID: 84853738}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3845,7 +3845,7 @@ GameObject:
   m_Component:
   - component: {fileID: 104830680}
   - component: {fileID: 104830679}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3927,7 +3927,7 @@ GameObject:
   m_Component:
   - component: {fileID: 110606611}
   - component: {fileID: 110606610}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (56)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4009,7 +4009,7 @@ GameObject:
   m_Component:
   - component: {fileID: 112418475}
   - component: {fileID: 112418474}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (76)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4523,7 +4523,7 @@ GameObject:
   - component: {fileID: 122346387}
   - component: {fileID: 122346388}
   - component: {fileID: 122346389}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4960,7 +4960,7 @@ GameObject:
   - component: {fileID: 132936281}
   - component: {fileID: 132936282}
   - component: {fileID: 132936283}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5397,7 +5397,7 @@ GameObject:
   - component: {fileID: 141392979}
   - component: {fileID: 141392981}
   - component: {fileID: 141392980}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5727,7 +5727,7 @@ GameObject:
   m_Component:
   - component: {fileID: 143280798}
   - component: {fileID: 143280797}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (87)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5973,7 +5973,7 @@ GameObject:
   m_Component:
   - component: {fileID: 150140962}
   - component: {fileID: 150140961}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6221,7 +6221,7 @@ GameObject:
   - component: {fileID: 163694229}
   - component: {fileID: 163694232}
   - component: {fileID: 163694231}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6795,7 +6795,7 @@ GameObject:
   - component: {fileID: 176970516}
   - component: {fileID: 176970519}
   - component: {fileID: 176970518}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7335,7 +7335,7 @@ GameObject:
   - component: {fileID: 195352748}
   - component: {fileID: 195352747}
   - component: {fileID: 195352750}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7691,7 +7691,7 @@ GameObject:
   - component: {fileID: 206965723}
   - component: {fileID: 206965726}
   - component: {fileID: 206965725}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8008,7 +8008,7 @@ GameObject:
   - component: {fileID: 210916525}
   - component: {fileID: 210916524}
   - component: {fileID: 210916523}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TX Village Props - Platform L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8243,7 +8243,7 @@ GameObject:
   - component: {fileID: 218126775}
   - component: {fileID: 218126778}
   - component: {fileID: 218126777}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8897,7 +8897,7 @@ GameObject:
   m_Component:
   - component: {fileID: 225364466}
   - component: {fileID: 225364465}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8979,7 +8979,7 @@ GameObject:
   m_Component:
   - component: {fileID: 229341958}
   - component: {fileID: 229341957}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (85)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9206,7 +9206,7 @@ GameObject:
   m_Component:
   - component: {fileID: 230446678}
   - component: {fileID: 230446677}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9454,7 +9454,7 @@ GameObject:
   - component: {fileID: 237503884}
   - component: {fileID: 237503887}
   - component: {fileID: 237503886}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9748,7 +9748,7 @@ GameObject:
   - component: {fileID: 245222545}
   - component: {fileID: 245222546}
   - component: {fileID: 245222547}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10102,7 +10102,7 @@ GameObject:
   m_Component:
   - component: {fileID: 255885422}
   - component: {fileID: 255885421}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10431,7 +10431,7 @@ GameObject:
   - component: {fileID: 261893356}
   - component: {fileID: 261893355}
   - component: {fileID: 261893358}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10787,7 +10787,7 @@ GameObject:
   - component: {fileID: 270598378}
   - component: {fileID: 270598380}
   - component: {fileID: 270598382}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10988,6 +10988,74 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &274189042
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 274189043}
+  - component: {fileID: 274189045}
+  - component: {fileID: 274189044}
+  m_Layer: 0
+  m_Name: DamageColliders
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &274189043
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 274189042}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1419313499}
+  - {fileID: 2035899187}
+  - {fileID: 1388088711}
+  m_Father: {fileID: 1855088409}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &274189044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 274189042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7766c3175ad85be44af24dff3002ad55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!50 &274189045
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 274189042}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &275085558
 GameObject:
   m_ObjectHideFlags: 0
@@ -11901,7 +11969,7 @@ GameObject:
   - component: {fileID: 301562430}
   - component: {fileID: 301562429}
   - component: {fileID: 301562432}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12561,7 +12629,7 @@ GameObject:
   - component: {fileID: 321743364}
   - component: {fileID: 321743365}
   - component: {fileID: 321743366}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: tileset_23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12688,7 +12756,7 @@ GameObject:
   m_Component:
   - component: {fileID: 322479342}
   - component: {fileID: 322479341}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13394,7 +13462,7 @@ GameObject:
   - component: {fileID: 334533511}
   - component: {fileID: 334533510}
   - component: {fileID: 334533513}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13504,7 +13572,7 @@ GameObject:
   - component: {fileID: 335106275}
   - component: {fileID: 335106278}
   - component: {fileID: 335106277}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14011,7 +14079,7 @@ GameObject:
   - component: {fileID: 338708814}
   - component: {fileID: 338708815}
   - component: {fileID: 338708816}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14120,7 +14188,7 @@ GameObject:
   - component: {fileID: 339228486}
   - component: {fileID: 339228485}
   - component: {fileID: 339228488}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_12 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14230,7 +14298,7 @@ GameObject:
   - component: {fileID: 342200202}
   - component: {fileID: 342200205}
   - component: {fileID: 342200204}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14359,7 +14427,7 @@ GameObject:
   m_Component:
   - component: {fileID: 347156371}
   - component: {fileID: 347156370}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (80)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14443,7 +14511,7 @@ GameObject:
   - component: {fileID: 347749285}
   - component: {fileID: 347749288}
   - component: {fileID: 347749287}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15379,6 +15447,88 @@ Transform:
   m_Father: {fileID: 2070368615}
   m_RootOrder: 482
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &359659504
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 359659505}
+  - component: {fileID: 359659506}
+  m_Layer: 0
+  m_Name: crossed1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &359659505
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 359659504}
+  m_LocalRotation: {x: 0, y: 0, z: 0.99346274, w: 0.11415697}
+  m_LocalPosition: {x: 0.01, y: 0.278, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 0.2}
+  m_Children: []
+  m_Father: {fileID: 1855088409}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 166.89}
+--- !u!212 &359659506
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 359659504}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: -1776214279
+  m_SortingLayer: 9
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 1bafe9d8b38ab4bf9ba9db099e4d7156, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.32, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &365292783
 GameObject:
   m_ObjectHideFlags: 0
@@ -15492,7 +15642,7 @@ GameObject:
   m_Component:
   - component: {fileID: 366840601}
   - component: {fileID: 366840602}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TX Village Props - Platform E
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15575,7 +15725,7 @@ GameObject:
   - component: {fileID: 367178766}
   - component: {fileID: 367178765}
   - component: {fileID: 367178768}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_41 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15684,7 +15834,7 @@ GameObject:
   - component: {fileID: 371515407}
   - component: {fileID: 371515406}
   - component: {fileID: 371515408}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Platform2Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15916,7 +16066,7 @@ GameObject:
   m_Component:
   - component: {fileID: 372225253}
   - component: {fileID: 372225252}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (60)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15998,7 +16148,7 @@ GameObject:
   m_Component:
   - component: {fileID: 374709295}
   - component: {fileID: 374709294}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (75)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16080,7 +16230,7 @@ GameObject:
   m_Component:
   - component: {fileID: 376357667}
   - component: {fileID: 376357666}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (59)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16327,7 +16477,7 @@ GameObject:
   - component: {fileID: 380607580}
   - component: {fileID: 380607579}
   - component: {fileID: 380607582}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_13 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16517,7 +16667,7 @@ GameObject:
   m_Component:
   - component: {fileID: 382233566}
   - component: {fileID: 382233565}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (82)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16599,7 +16749,7 @@ GameObject:
   m_Component:
   - component: {fileID: 385614269}
   - component: {fileID: 385614268}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (86)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16847,7 +16997,7 @@ GameObject:
   - component: {fileID: 387701394}
   - component: {fileID: 387701397}
   - component: {fileID: 387701396}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_18 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17059,7 +17209,7 @@ GameObject:
   - component: {fileID: 395696291}
   - component: {fileID: 395696290}
   - component: {fileID: 395696293}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17332,7 +17482,7 @@ GameObject:
   - component: {fileID: 400893073}
   - component: {fileID: 400893074}
   - component: {fileID: 400893075}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17442,7 +17592,7 @@ GameObject:
   - component: {fileID: 408147483}
   - component: {fileID: 408147486}
   - component: {fileID: 408147485}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_24 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17817,7 +17967,7 @@ GameObject:
   m_Component:
   - component: {fileID: 410272561}
   - component: {fileID: 410272560}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (63)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18063,7 +18213,7 @@ GameObject:
   m_Component:
   - component: {fileID: 412408562}
   - component: {fileID: 412408561}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (77)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18146,7 +18296,7 @@ GameObject:
   - component: {fileID: 412826637}
   - component: {fileID: 412826638}
   - component: {fileID: 412826639}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18255,7 +18405,7 @@ GameObject:
   - component: {fileID: 418085722}
   - component: {fileID: 418085721}
   - component: {fileID: 418085724}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18363,7 +18513,7 @@ GameObject:
   m_Component:
   - component: {fileID: 425920612}
   - component: {fileID: 425920611}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18905,7 +19055,7 @@ GameObject:
   - component: {fileID: 439068638}
   - component: {fileID: 439068637}
   - component: {fileID: 439068640}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19178,7 +19328,7 @@ GameObject:
   - component: {fileID: 449313844}
   - component: {fileID: 449313843}
   - component: {fileID: 449313846}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19287,7 +19437,7 @@ GameObject:
   - component: {fileID: 456375990}
   - component: {fileID: 456375989}
   - component: {fileID: 456375992}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19807,7 +19957,7 @@ GameObject:
   - component: {fileID: 468101542}
   - component: {fileID: 468101545}
   - component: {fileID: 468101544}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19936,7 +20086,7 @@ GameObject:
   m_Component:
   - component: {fileID: 471806616}
   - component: {fileID: 471806615}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (61)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20101,7 +20251,7 @@ GameObject:
   - component: {fileID: 479116825}
   - component: {fileID: 479116824}
   - component: {fileID: 479116827}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_41 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20291,7 +20441,7 @@ GameObject:
   m_Component:
   - component: {fileID: 481519011}
   - component: {fileID: 481519010}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20784,7 +20934,7 @@ GameObject:
   - component: {fileID: 496285376}
   - component: {fileID: 496285375}
   - component: {fileID: 496285378}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21385,7 +21535,7 @@ GameObject:
   - component: {fileID: 509237203}
   - component: {fileID: 509237202}
   - component: {fileID: 509237205}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_11 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21869,7 +22019,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.68, y: 0.5, z: -10}
+  m_LocalPosition: {x: 4.09, y: 0.5, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -22133,7 +22283,7 @@ GameObject:
   - component: {fileID: 522248404}
   - component: {fileID: 522248407}
   - component: {fileID: 522248406}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22448,7 +22598,7 @@ GameObject:
   m_Component:
   - component: {fileID: 529295420}
   - component: {fileID: 529295419}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (62)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23276,7 +23426,7 @@ GameObject:
   - component: {fileID: 546857263}
   - component: {fileID: 546857266}
   - component: {fileID: 546857265}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23405,7 +23555,7 @@ GameObject:
   m_Component:
   - component: {fileID: 547279286}
   - component: {fileID: 547279285}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (84)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23569,7 +23719,7 @@ GameObject:
   m_Component:
   - component: {fileID: 552692833}
   - component: {fileID: 552692832}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23734,7 +23884,7 @@ GameObject:
   - component: {fileID: 554492284}
   - component: {fileID: 554492283}
   - component: {fileID: 554492286}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_12 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24384,7 +24534,7 @@ GameObject:
   - component: {fileID: 567110439}
   - component: {fileID: 567110438}
   - component: {fileID: 567110441}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_12 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24493,7 +24643,7 @@ GameObject:
   - component: {fileID: 570290352}
   - component: {fileID: 570290354}
   - component: {fileID: 570290353}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24683,7 +24833,7 @@ GameObject:
   m_Component:
   - component: {fileID: 571932123}
   - component: {fileID: 571932122}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (43)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25759,7 +25909,7 @@ GameObject:
   - component: {fileID: 593884701}
   - component: {fileID: 593884700}
   - component: {fileID: 593884703}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25867,7 +26017,7 @@ GameObject:
   m_Component:
   - component: {fileID: 594160346}
   - component: {fileID: 594160345}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (74)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26447,6 +26597,53 @@ Transform:
   m_Father: {fileID: 2070368615}
   m_RootOrder: 460
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &608787955
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 608787956}
+  - component: {fileID: 608787957}
+  m_Layer: 0
+  m_Name: FootCollider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &608787956
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608787955}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.018, y: 0.347, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1636213762}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &608787957
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608787955}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.35
 --- !u!1 &610015532
 GameObject:
   m_ObjectHideFlags: 0
@@ -26821,7 +27018,7 @@ GameObject:
   - component: {fileID: 614017668}
   - component: {fileID: 614017667}
   - component: {fileID: 614017670}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27174,7 +27371,7 @@ GameObject:
   - component: {fileID: 620483757}
   - component: {fileID: 620483756}
   - component: {fileID: 620483759}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27283,7 +27480,7 @@ GameObject:
   - component: {fileID: 620607403}
   - component: {fileID: 620607402}
   - component: {fileID: 620607405}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27618,7 +27815,7 @@ GameObject:
   m_Component:
   - component: {fileID: 623361883}
   - component: {fileID: 623361882}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (78)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27783,7 +27980,7 @@ GameObject:
   - component: {fileID: 629667827}
   - component: {fileID: 629667829}
   - component: {fileID: 629667828}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28120,7 +28317,7 @@ GameObject:
   - component: {fileID: 631325448}
   - component: {fileID: 631325449}
   - component: {fileID: 631325450}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28229,7 +28426,7 @@ GameObject:
   - component: {fileID: 631694198}
   - component: {fileID: 631694200}
   - component: {fileID: 631694199}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28769,6 +28966,36 @@ Transform:
   m_Father: {fileID: 2070368615}
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &641631457
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 641631458}
+  m_Layer: 0
+  m_Name: SuperAttackPointStart
+  m_TagString: Untagged
+  m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &641631458
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 641631457}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.921, y: 1.15, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1957925160}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &644053383
 GameObject:
   m_ObjectHideFlags: 0
@@ -29109,7 +29336,7 @@ GameObject:
   - component: {fileID: 654323734}
   - component: {fileID: 654323736}
   - component: {fileID: 654323738}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_6 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29567,7 +29794,7 @@ GameObject:
   - component: {fileID: 664424993}
   - component: {fileID: 664424994}
   - component: {fileID: 664424995}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_63
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30416,7 +30643,7 @@ GameObject:
   - component: {fileID: 701671212}
   - component: {fileID: 701671214}
   - component: {fileID: 701671213}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30606,7 +30833,7 @@ GameObject:
   m_Component:
   - component: {fileID: 703973274}
   - component: {fileID: 703973273}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31380,7 +31607,7 @@ GameObject:
   - component: {fileID: 735952921}
   - component: {fileID: 735952920}
   - component: {fileID: 735952923}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_20 (81)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31899,7 +32126,7 @@ GameObject:
   - component: {fileID: 745298675}
   - component: {fileID: 745298674}
   - component: {fileID: 745298677}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_11 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32008,7 +32235,7 @@ GameObject:
   - component: {fileID: 746271118}
   - component: {fileID: 746271117}
   - component: {fileID: 746271120}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32364,7 +32591,7 @@ GameObject:
   - component: {fileID: 752762486}
   - component: {fileID: 752762489}
   - component: {fileID: 752762488}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_6 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32495,7 +32722,7 @@ GameObject:
   - component: {fileID: 752970506}
   - component: {fileID: 752970509}
   - component: {fileID: 752970508}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_24 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33001,7 +33228,7 @@ GameObject:
   m_Component:
   - component: {fileID: 762998455}
   - component: {fileID: 762998454}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33084,7 +33311,7 @@ GameObject:
   - component: {fileID: 763325608}
   - component: {fileID: 763325607}
   - component: {fileID: 763325610}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33685,7 +33912,7 @@ GameObject:
   - component: {fileID: 781612613}
   - component: {fileID: 781612612}
   - component: {fileID: 781612615}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33877,7 +34104,7 @@ GameObject:
   - component: {fileID: 784139387}
   - component: {fileID: 784139390}
   - component: {fileID: 784139389}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34007,7 +34234,7 @@ GameObject:
   - component: {fileID: 786336140}
   - component: {fileID: 786336139}
   - component: {fileID: 786336142}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_12 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34443,7 +34670,7 @@ GameObject:
   m_Component:
   - component: {fileID: 796547111}
   - component: {fileID: 796547110}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (46)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34525,7 +34752,7 @@ GameObject:
   m_Component:
   - component: {fileID: 798024944}
   - component: {fileID: 798024943}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34609,7 +34836,7 @@ GameObject:
   - component: {fileID: 799400096}
   - component: {fileID: 799400099}
   - component: {fileID: 799400098}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34821,7 +35048,7 @@ GameObject:
   - component: {fileID: 806005833}
   - component: {fileID: 806005832}
   - component: {fileID: 806005835}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34930,7 +35157,7 @@ GameObject:
   - component: {fileID: 807130415}
   - component: {fileID: 807130414}
   - component: {fileID: 807130417}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36423,7 +36650,7 @@ GameObject:
   - component: {fileID: 833401036}
   - component: {fileID: 833401037}
   - component: {fileID: 833401038}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36943,7 +37170,7 @@ GameObject:
   - component: {fileID: 841698245}
   - component: {fileID: 841698248}
   - component: {fileID: 841698247}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37319,7 +37546,7 @@ GameObject:
   - component: {fileID: 846363384}
   - component: {fileID: 846363383}
   - component: {fileID: 846363386}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_43
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38230,7 +38457,7 @@ GameObject:
   - component: {fileID: 860962167}
   - component: {fileID: 860962170}
   - component: {fileID: 860962169}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_24 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38360,7 +38587,7 @@ GameObject:
   - component: {fileID: 861042137}
   - component: {fileID: 861042139}
   - component: {fileID: 861042138}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38469,7 +38696,7 @@ GameObject:
   - component: {fileID: 861328865}
   - component: {fileID: 861328866}
   - component: {fileID: 861328867}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_59
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38790,7 +39017,7 @@ GameObject:
   m_Component:
   - component: {fileID: 865376319}
   - component: {fileID: 865376318}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39119,7 +39346,7 @@ GameObject:
   - component: {fileID: 882880819}
   - component: {fileID: 882880820}
   - component: {fileID: 882880821}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39474,7 +39701,7 @@ GameObject:
   - component: {fileID: 886366469}
   - component: {fileID: 886366468}
   - component: {fileID: 886366471}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_12 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39911,7 +40138,7 @@ GameObject:
   - component: {fileID: 899630445}
   - component: {fileID: 899630444}
   - component: {fileID: 899630447}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40021,7 +40248,7 @@ GameObject:
   - component: {fileID: 900423029}
   - component: {fileID: 900423032}
   - component: {fileID: 900423031}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_5 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40336,7 +40563,7 @@ GameObject:
   - component: {fileID: 902086777}
   - component: {fileID: 902086776}
   - component: {fileID: 902086779}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40609,7 +40836,7 @@ GameObject:
   - component: {fileID: 908417823}
   - component: {fileID: 908417822}
   - component: {fileID: 908417825}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40752,7 +40979,7 @@ GameObject:
   - component: {fileID: 914471859}
   - component: {fileID: 914471858}
   - component: {fileID: 914471861}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41423,7 +41650,7 @@ GameObject:
   - component: {fileID: 929223714}
   - component: {fileID: 929223713}
   - component: {fileID: 929223716}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_41 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41532,7 +41759,7 @@ GameObject:
   - component: {fileID: 932765958}
   - component: {fileID: 932765959}
   - component: {fileID: 932765960}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_64
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41727,7 +41954,7 @@ GameObject:
   - component: {fileID: 934263861}
   - component: {fileID: 934263860}
   - component: {fileID: 934263859}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TX Village Props - Platform M (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42121,7 +42348,7 @@ GameObject:
   - component: {fileID: 950552953}
   - component: {fileID: 950552952}
   - component: {fileID: 950552955}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42231,7 +42458,7 @@ GameObject:
   - component: {fileID: 950909791}
   - component: {fileID: 950909794}
   - component: {fileID: 950909793}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_24 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42361,7 +42588,7 @@ GameObject:
   - component: {fileID: 950940848}
   - component: {fileID: 950940847}
   - component: {fileID: 950940850}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_41
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42962,7 +43189,7 @@ GameObject:
   - component: {fileID: 960132191}
   - component: {fileID: 960132190}
   - component: {fileID: 960132193}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_11 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43187,7 +43414,7 @@ GameObject:
   - component: {fileID: 970523876}
   - component: {fileID: 970523875}
   - component: {fileID: 970523878}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43541,7 +43768,7 @@ GameObject:
   m_Component:
   - component: {fileID: 979374814}
   - component: {fileID: 979374813}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44091,7 +44318,7 @@ GameObject:
   - component: {fileID: 998615842}
   - component: {fileID: 998615841}
   - component: {fileID: 998615844}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44199,7 +44426,7 @@ GameObject:
   m_Component:
   - component: {fileID: 998912963}
   - component: {fileID: 998912962}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (72)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44681,6 +44908,63 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1012329786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1012329787}
+  - component: {fileID: 1012329788}
+  m_Layer: 0
+  m_Name: BodyCollider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1012329787
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1012329786}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.092, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1636213762}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1012329788
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1012329786}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.054594636, y: 0.13001156}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.551111, y: 1.2600231}
+  m_EdgeRadius: 0
 --- !u!1 &1013280141
 GameObject:
   m_ObjectHideFlags: 0
@@ -44693,7 +44977,7 @@ GameObject:
   - component: {fileID: 1013280143}
   - component: {fileID: 1013280144}
   - component: {fileID: 1013280145}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: tileset_12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44986,7 +45270,7 @@ GameObject:
   - component: {fileID: 1015553626}
   - component: {fileID: 1015553629}
   - component: {fileID: 1015553628}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45609,7 +45893,7 @@ GameObject:
   - component: {fileID: 1035326042}
   - component: {fileID: 1035326045}
   - component: {fileID: 1035326044}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45822,7 +46106,7 @@ GameObject:
   - component: {fileID: 1039008269}
   - component: {fileID: 1039008272}
   - component: {fileID: 1039008271}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_35
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47067,7 +47351,7 @@ GameObject:
   - component: {fileID: 1064416222}
   - component: {fileID: 1064416225}
   - component: {fileID: 1064416226}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_11 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47366,7 +47650,7 @@ GameObject:
   - component: {fileID: 1072718741}
   - component: {fileID: 1072718742}
   - component: {fileID: 1072718743}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: tileset_28
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47558,7 +47842,7 @@ GameObject:
   - component: {fileID: 1077698613}
   - component: {fileID: 1077698616}
   - component: {fileID: 1077698615}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47852,7 +48136,7 @@ GameObject:
   - component: {fileID: 1080113819}
   - component: {fileID: 1080113818}
   - component: {fileID: 1080113821}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_11 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47962,7 +48246,7 @@ GameObject:
   - component: {fileID: 1085883984}
   - component: {fileID: 1085883987}
   - component: {fileID: 1085883986}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -48339,7 +48623,7 @@ GameObject:
   - component: {fileID: 1089746043}
   - component: {fileID: 1089746046}
   - component: {fileID: 1089746045}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_5 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -48634,7 +48918,7 @@ GameObject:
   - component: {fileID: 1093463490}
   - component: {fileID: 1093463493}
   - component: {fileID: 1093463492}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49168,7 +49452,7 @@ GameObject:
   - component: {fileID: 1103063627}
   - component: {fileID: 1103063626}
   - component: {fileID: 1103063629}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49277,7 +49561,7 @@ GameObject:
   - component: {fileID: 1103839993}
   - component: {fileID: 1103839994}
   - component: {fileID: 1103839995}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49386,7 +49670,7 @@ GameObject:
   - component: {fileID: 1106969529}
   - component: {fileID: 1106969528}
   - component: {fileID: 1106969531}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49659,7 +49943,7 @@ GameObject:
   - component: {fileID: 1114397624}
   - component: {fileID: 1114397623}
   - component: {fileID: 1114397626}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -50155,7 +50439,7 @@ GameObject:
   - component: {fileID: 1123945277}
   - component: {fileID: 1123945278}
   - component: {fileID: 1123945279}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: tileset_26
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -50919,7 +51203,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1145001223}
   - component: {fileID: 1145001222}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51230,7 +51514,7 @@ GameObject:
   - component: {fileID: 1151266404}
   - component: {fileID: 1151266407}
   - component: {fileID: 1151266406}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51462,7 +51746,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1155564089}
   - component: {fileID: 1155564088}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51709,7 +51993,7 @@ GameObject:
   - component: {fileID: 1162127515}
   - component: {fileID: 1162127514}
   - component: {fileID: 1162127517}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51982,7 +52266,7 @@ GameObject:
   - component: {fileID: 1168839505}
   - component: {fileID: 1168839504}
   - component: {fileID: 1168839507}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52091,7 +52375,7 @@ GameObject:
   - component: {fileID: 1169830545}
   - component: {fileID: 1169830544}
   - component: {fileID: 1169830547}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52530,7 +52814,7 @@ GameObject:
   - component: {fileID: 1178038253}
   - component: {fileID: 1178038256}
   - component: {fileID: 1178038255}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_18 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52661,7 +52945,7 @@ GameObject:
   - component: {fileID: 1179300007}
   - component: {fileID: 1179300010}
   - component: {fileID: 1179300009}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52874,7 +53158,7 @@ GameObject:
   - component: {fileID: 1186725779}
   - component: {fileID: 1186725782}
   - component: {fileID: 1186725781}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_24 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -53003,7 +53287,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1188669160}
   - component: {fileID: 1188669159}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (47)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -53252,7 +53536,7 @@ GameObject:
   - component: {fileID: 1194642721}
   - component: {fileID: 1194642720}
   - component: {fileID: 1194642724}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: RailsPlatform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -53667,7 +53951,7 @@ GameObject:
   - component: {fileID: 1199987129}
   - component: {fileID: 1199987132}
   - component: {fileID: 1199987131}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54175,7 +54459,7 @@ GameObject:
   - component: {fileID: 1209921994}
   - component: {fileID: 1209921997}
   - component: {fileID: 1209921996}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54500,7 +54784,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1224953159}
   - component: {fileID: 1224953158}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (65)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54584,7 +54868,7 @@ GameObject:
   - component: {fileID: 1229225300}
   - component: {fileID: 1229225302}
   - component: {fileID: 1229225304}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54714,7 +54998,7 @@ GameObject:
   - component: {fileID: 1230289214}
   - component: {fileID: 1230289213}
   - component: {fileID: 1230289216}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -55070,7 +55354,7 @@ GameObject:
   - component: {fileID: 1234310028}
   - component: {fileID: 1234310030}
   - component: {fileID: 1234310032}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -55364,7 +55648,7 @@ GameObject:
   - component: {fileID: 1241440011}
   - component: {fileID: 1241440012}
   - component: {fileID: 1241440013}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_35
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -55822,7 +56106,7 @@ GameObject:
   - component: {fileID: 1249547373}
   - component: {fileID: 1249547372}
   - component: {fileID: 1249547375}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56014,7 +56298,7 @@ GameObject:
   - component: {fileID: 1251114097}
   - component: {fileID: 1251114100}
   - component: {fileID: 1251114099}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56143,7 +56427,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1257151139}
   - component: {fileID: 1257151138}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -57211,7 +57495,7 @@ GameObject:
   - component: {fileID: 1272246811}
   - component: {fileID: 1272246812}
   - component: {fileID: 1272246813}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: tileset_29
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -57995,7 +58279,7 @@ GameObject:
   - component: {fileID: 1282839339}
   - component: {fileID: 1282839340}
   - component: {fileID: 1282839341}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: tileset_42
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58444,7 +58728,7 @@ GameObject:
   - component: {fileID: 1292879027}
   - component: {fileID: 1292879026}
   - component: {fileID: 1292879025}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TX Village Props - Platform M (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58837,7 +59121,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1297048455}
   - component: {fileID: 1297048454}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59003,7 +59287,7 @@ GameObject:
   - component: {fileID: 1301182025}
   - component: {fileID: 1301182028}
   - component: {fileID: 1301182027}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59276,7 +59560,7 @@ GameObject:
   - component: {fileID: 1304713370}
   - component: {fileID: 1304713369}
   - component: {fileID: 1304713372}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59734,7 +60018,7 @@ GameObject:
   - component: {fileID: 1315501189}
   - component: {fileID: 1315501188}
   - component: {fileID: 1315501191}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_12 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60007,7 +60291,7 @@ GameObject:
   - component: {fileID: 1318745480}
   - component: {fileID: 1318745482}
   - component: {fileID: 1318745481}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60595,7 +60879,7 @@ GameObject:
   - component: {fileID: 1334327521}
   - component: {fileID: 1334327524}
   - component: {fileID: 1334327523}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -61379,7 +61663,7 @@ GameObject:
   - component: {fileID: 1350515245}
   - component: {fileID: 1350515247}
   - component: {fileID: 1350515246}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -61817,7 +62101,7 @@ GameObject:
   - component: {fileID: 1353594164}
   - component: {fileID: 1353594167}
   - component: {fileID: 1353594166}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_24 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -61948,7 +62232,7 @@ GameObject:
   - component: {fileID: 1357786639}
   - component: {fileID: 1357786642}
   - component: {fileID: 1357786641}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_18 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -62829,7 +63113,7 @@ GameObject:
   - component: {fileID: 1378264528}
   - component: {fileID: 1378264529}
   - component: {fileID: 1378264530}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: tileset_24
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -63062,6 +63346,63 @@ Transform:
   m_Father: {fileID: 2070368615}
   m_RootOrder: 421
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1388088710
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1388088711}
+  - component: {fileID: 1388088712}
+  m_Layer: 0
+  m_Name: DamageCollider1 (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &1388088711
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1388088710}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 274189043}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1388088712
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1388088710}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1388309711
 GameObject:
   m_ObjectHideFlags: 0
@@ -63156,7 +63497,7 @@ GameObject:
   - component: {fileID: 1389197827}
   - component: {fileID: 1389197830}
   - component: {fileID: 1389197829}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -63356,7 +63697,7 @@ GameObject:
   - component: {fileID: 1390064048}
   - component: {fileID: 1390064047}
   - component: {fileID: 1390064050}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_10 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -63793,7 +64134,7 @@ GameObject:
   - component: {fileID: 1400991729}
   - component: {fileID: 1400991728}
   - component: {fileID: 1400991731}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -63983,7 +64324,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1406944139}
   - component: {fileID: 1406944138}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (51)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64382,7 +64723,7 @@ GameObject:
   - component: {fileID: 1411665092}
   - component: {fileID: 1411665095}
   - component: {fileID: 1411665094}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64650,7 +64991,7 @@ GameObject:
   - component: {fileID: 1416786073}
   - component: {fileID: 1416786074}
   - component: {fileID: 1416786075}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64748,6 +65089,63 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.24, y: 0.24}
   m_EdgeRadius: 0
+--- !u!1 &1419313498
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1419313499}
+  - component: {fileID: 1419313500}
+  m_Layer: 0
+  m_Name: DamageCollider1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &1419313499
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419313498}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 274189043}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1419313500
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419313498}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1419457335
 GameObject:
   m_ObjectHideFlags: 0
@@ -64840,7 +65238,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1420018103}
   - component: {fileID: 1420018102}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (67)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64922,7 +65320,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1424442311}
   - component: {fileID: 1424442310}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -65087,7 +65485,7 @@ GameObject:
   - component: {fileID: 1428328552}
   - component: {fileID: 1428328551}
   - component: {fileID: 1428328554}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -65852,7 +66250,7 @@ GameObject:
   - component: {fileID: 1442952260}
   - component: {fileID: 1442952259}
   - component: {fileID: 1442952262}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_11 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -66677,7 +67075,7 @@ GameObject:
   - component: {fileID: 1468257356}
   - component: {fileID: 1468257357}
   - component: {fileID: 1468257358}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -66905,7 +67303,7 @@ GameObject:
   - component: {fileID: 1485491624}
   - component: {fileID: 1485491623}
   - component: {fileID: 1485491626}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -67014,7 +67412,7 @@ GameObject:
   - component: {fileID: 1489210688}
   - component: {fileID: 1489210687}
   - component: {fileID: 1489210690}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_11 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -67205,7 +67603,7 @@ GameObject:
   - component: {fileID: 1489430375}
   - component: {fileID: 1489430374}
   - component: {fileID: 1489430377}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_41 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -67476,7 +67874,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1494597750}
   - component: {fileID: 1494597749}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (83)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -67807,7 +68205,7 @@ GameObject:
   - component: {fileID: 1500866902}
   - component: {fileID: 1500866901}
   - component: {fileID: 1500866900}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TX Village Props - Platform M (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69020,7 +69418,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1532565344}
   - component: {fileID: 1532565343}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69184,7 +69582,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1538166821}
   - component: {fileID: 1538166820}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (55)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69267,7 +69665,7 @@ GameObject:
   - component: {fileID: 1539773728}
   - component: {fileID: 1539773727}
   - component: {fileID: 1539773730}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_11 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69376,7 +69774,7 @@ GameObject:
   - component: {fileID: 1540985057}
   - component: {fileID: 1540985056}
   - component: {fileID: 1540985059}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_11 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69486,7 +69884,7 @@ GameObject:
   - component: {fileID: 1541256542}
   - component: {fileID: 1541256545}
   - component: {fileID: 1541256544}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -70211,7 +70609,7 @@ GameObject:
   - component: {fileID: 1548870439}
   - component: {fileID: 1548870438}
   - component: {fileID: 1548870441}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_11 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -70320,7 +70718,7 @@ GameObject:
   - component: {fileID: 1552309067}
   - component: {fileID: 1552309066}
   - component: {fileID: 1552309069}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_12 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -70511,7 +70909,7 @@ GameObject:
   - component: {fileID: 1554319811}
   - component: {fileID: 1554319810}
   - component: {fileID: 1554319813}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -71011,7 +71409,7 @@ GameObject:
   - component: {fileID: 1561026325}
   - component: {fileID: 1561026324}
   - component: {fileID: 1561026327}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -71120,7 +71518,7 @@ GameObject:
   - component: {fileID: 1561697899}
   - component: {fileID: 1561697898}
   - component: {fileID: 1561697901}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_40
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -71638,7 +72036,7 @@ GameObject:
   - component: {fileID: 1576084773}
   - component: {fileID: 1576084772}
   - component: {fileID: 1576084775}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_41 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -71910,7 +72308,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1580476148}
   - component: {fileID: 1580476147}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72156,7 +72554,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1585003328}
   - component: {fileID: 1585003327}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72931,7 +73329,7 @@ GameObject:
   - component: {fileID: 1600494071}
   - component: {fileID: 1600494073}
   - component: {fileID: 1600494072}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73286,7 +73684,7 @@ GameObject:
   - component: {fileID: 1607872481}
   - component: {fileID: 1607872482}
   - component: {fileID: 1607872483}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: tileset_41
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73402,7 +73800,7 @@ GameObject:
   - component: {fileID: 1612665490}
   - component: {fileID: 1612665493}
   - component: {fileID: 1612665492}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_18 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73613,7 +74011,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1615537756}
   - component: {fileID: 1615537755}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (68)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74189,7 +74587,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1623086455}
   - component: {fileID: 1623086454}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (45)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74272,7 +74670,7 @@ GameObject:
   - component: {fileID: 1624634389}
   - component: {fileID: 1624634388}
   - component: {fileID: 1624634391}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_12 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74380,7 +74778,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1632645044}
   - component: {fileID: 1632645043}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (53)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74494,7 +74892,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1634654110}
   - component: {fileID: 1634654109}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (58)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74565,6 +74963,38 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1689269821}
   m_RootOrder: 58
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1636213761
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1636213762}
+  m_Layer: 0
+  m_Name: BodyCollider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1636213762
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1636213761}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 608787956}
+  - {fileID: 1012329787}
+  m_Father: {fileID: 1957925160}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1642297667
 GameObject:
@@ -74887,7 +75317,7 @@ GameObject:
   - component: {fileID: 1654738482}
   - component: {fileID: 1654738481}
   - component: {fileID: 1654738484}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_41 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75161,7 +75591,7 @@ GameObject:
   - component: {fileID: 1661748723}
   - component: {fileID: 1661748726}
   - component: {fileID: 1661748725}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_24 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75372,7 +75802,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1667920449}
   - component: {fileID: 1667920448}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75536,7 +75966,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1668257451}
   - component: {fileID: 1668257450}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (54)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75865,7 +76295,7 @@ GameObject:
   - component: {fileID: 1672290604}
   - component: {fileID: 1672290606}
   - component: {fileID: 1672290605}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76221,7 +76651,7 @@ GameObject:
   - component: {fileID: 1676231920}
   - component: {fileID: 1676231923}
   - component: {fileID: 1676231922}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_18 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76514,7 +76944,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1684209715}
   - component: {fileID: 1684209714}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76892,7 +77322,7 @@ GameObject:
   - component: {fileID: 1687732426}
   - component: {fileID: 1687732425}
   - component: {fileID: 1687732428}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -77268,7 +77698,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1693171479}
   - component: {fileID: 1693171478}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (50)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -77350,7 +77780,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1696586350}
   - component: {fileID: 1696586349}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -77597,7 +78027,7 @@ GameObject:
   - component: {fileID: 1703758133}
   - component: {fileID: 1703758132}
   - component: {fileID: 1703758135}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -77708,7 +78138,7 @@ GameObject:
   - component: {fileID: 1709725208}
   - component: {fileID: 1709725207}
   - component: {fileID: 1709725206}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TX Village Props - Platform M
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -78020,7 +78450,7 @@ GameObject:
   - component: {fileID: 1719703140}
   - component: {fileID: 1719703139}
   - component: {fileID: 1719703142}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_11 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79133,7 +79563,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1744965877}
   - component: {fileID: 1744965876}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (79)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79216,7 +79646,7 @@ GameObject:
   - component: {fileID: 1747447210}
   - component: {fileID: 1747447211}
   - component: {fileID: 1747447212}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79406,7 +79836,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1753852454}
   - component: {fileID: 1753852453}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (49)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79734,7 +80164,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1761073073}
   - component: {fileID: 1761073072}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79817,7 +80247,7 @@ GameObject:
   - component: {fileID: 1764737589}
   - component: {fileID: 1764737588}
   - component: {fileID: 1764737591}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79925,7 +80355,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1764991486}
   - component: {fileID: 1764991487}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TX Village Props - Platform E (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80007,7 +80437,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1767863052}
   - component: {fileID: 1767863051}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (81)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80234,7 +80664,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1774082183}
   - component: {fileID: 1774082182}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (42)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80399,7 +80829,7 @@ GameObject:
   - component: {fileID: 1778617925}
   - component: {fileID: 1778617924}
   - component: {fileID: 1778617927}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80591,7 +81021,7 @@ GameObject:
   - component: {fileID: 1783971560}
   - component: {fileID: 1783971563}
   - component: {fileID: 1783971562}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_6 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80803,7 +81233,7 @@ GameObject:
   - component: {fileID: 1786327080}
   - component: {fileID: 1786327079}
   - component: {fileID: 1786327082}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -81216,7 +81646,7 @@ GameObject:
   - component: {fileID: 1789320961}
   - component: {fileID: 1789320960}
   - component: {fileID: 1789320963}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -81326,7 +81756,7 @@ GameObject:
   - component: {fileID: 1789966417}
   - component: {fileID: 1789966420}
   - component: {fileID: 1789966419}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -81456,7 +81886,7 @@ GameObject:
   - component: {fileID: 1790524170}
   - component: {fileID: 1790524169}
   - component: {fileID: 1790524172}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -81729,7 +82159,7 @@ GameObject:
   - component: {fileID: 1807020650}
   - component: {fileID: 1807020649}
   - component: {fileID: 1807020652}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -81838,7 +82268,7 @@ GameObject:
   - component: {fileID: 1807106685}
   - component: {fileID: 1807106686}
   - component: {fileID: 1807106687}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_76
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -81946,7 +82376,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1809138322}
   - component: {fileID: 1809138321}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -82030,7 +82460,7 @@ GameObject:
   - component: {fileID: 1810580417}
   - component: {fileID: 1810580420}
   - component: {fileID: 1810580419}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_24 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -82897,7 +83327,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1820689355}
   - component: {fileID: 1820689354}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -83516,7 +83946,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1839817255}
   - component: {fileID: 1839817254}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -83680,7 +84110,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1848979299}
   - component: {fileID: 1848979298}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84140,6 +84570,10 @@ GameObject:
   - component: {fileID: 1855088409}
   - component: {fileID: 1855088408}
   - component: {fileID: 1855088407}
+  - component: {fileID: 1855088410}
+  - component: {fileID: 1855088413}
+  - component: {fileID: 1855088412}
+  - component: {fileID: 1855088411}
   m_Layer: 0
   m_Name: Adventurer_Visual
   m_TagString: Untagged
@@ -84228,10 +84662,60 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 5}
-  m_Children: []
+  m_Children:
+  - {fileID: 359659505}
+  - {fileID: 274189043}
   m_Father: {fileID: 1957925160}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1855088410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855088406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9e3d20ec56215244a0e72624a29da5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1855088411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855088406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f05a66f8849b7fe4ca2cc12d3ed0b1e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1855088412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855088406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38b180f1851ae3a469e0baba5d8b02df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1855088413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855088406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db0adcf29a4ef874aa87a4c272a41c2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1862802291
 GameObject:
   m_ObjectHideFlags: 0
@@ -84244,7 +84728,7 @@ GameObject:
   - component: {fileID: 1862802292}
   - component: {fileID: 1862802294}
   - component: {fileID: 1862802296}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84606,7 +85090,7 @@ GameObject:
   - component: {fileID: 1868191795}
   - component: {fileID: 1868191794}
   - component: {fileID: 1868191797}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_20 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -85043,7 +85527,7 @@ GameObject:
   - component: {fileID: 1876030599}
   - component: {fileID: 1876030598}
   - component: {fileID: 1876030601}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -85316,7 +85800,7 @@ GameObject:
   - component: {fileID: 1881194441}
   - component: {fileID: 1881194440}
   - component: {fileID: 1881194443}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_11 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -85670,7 +86154,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1885562507}
   - component: {fileID: 1885562506}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -86153,7 +86637,7 @@ GameObject:
   - component: {fileID: 1901768834}
   - component: {fileID: 1901768833}
   - component: {fileID: 1901768836}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -86902,7 +87386,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1916774892}
   - component: {fileID: 1916774891}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87217,7 +87701,7 @@ GameObject:
   - component: {fileID: 1923285447}
   - component: {fileID: 1923285446}
   - component: {fileID: 1923285449}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_19 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87327,7 +87811,7 @@ GameObject:
   - component: {fileID: 1923582764}
   - component: {fileID: 1923582767}
   - component: {fileID: 1923582766}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87538,7 +88022,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1929731618}
   - component: {fileID: 1929731617}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (71)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87848,7 +88332,7 @@ GameObject:
   - component: {fileID: 1933571527}
   - component: {fileID: 1933571526}
   - component: {fileID: 1933571529}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88122,7 +88606,7 @@ GameObject:
   - component: {fileID: 1941242964}
   - component: {fileID: 1941242967}
   - component: {fileID: 1941242966}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88483,7 +88967,7 @@ GameObject:
   - component: {fileID: 1948321608}
   - component: {fileID: 1948321611}
   - component: {fileID: 1948321610}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88612,7 +89096,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1949215735}
   - component: {fileID: 1949215734}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (57)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88776,7 +89260,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1950472875}
   - component: {fileID: 1950472874}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (64)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88858,7 +89342,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1953993748}
   - component: {fileID: 1953993747}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89185,6 +89669,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1957925160}
+  - component: {fileID: 1957925161}
+  - component: {fileID: 1957925162}
   m_Layer: 0
   m_Name: Adventurer
   m_TagString: Untagged
@@ -89199,14 +89685,67 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1957925159}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4.09, y: -0.49999988, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1855088409}
+  - {fileID: 1636213762}
+  - {fileID: 641631458}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &1957925161
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1957925159}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!114 &1957925162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1957925159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5103978b51a378c409602165110f6db1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackVariantCount: 0
+  damageAttack:
+  - 100
+  - 15
+  - 20
+  animator: {fileID: 1855088407}
+  isAttacking: 0
+  maxHealth: 100
+  isDead: 0
+  damageDealer: {fileID: 274189044}
+  superAttackStartPoint: {fileID: 641631458}
+  superAttackPrefab: {fileID: 5582478504722302970, guid: 0d4a0fff681456149bbb9474070d5c7e, type: 3}
+  currentCharge: 100
+  maxCharge: 100
+  superAttackPrice: 10
+  animationCollection: {fileID: 1855088406}
+  animationEvent_SA: {fileID: 0}
+  animationEvent_A: []
 --- !u!1 &1958024544
 GameObject:
   m_ObjectHideFlags: 0
@@ -89219,7 +89758,7 @@ GameObject:
   - component: {fileID: 1958024545}
   - component: {fileID: 1958024548}
   - component: {fileID: 1958024547}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89430,7 +89969,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1967389052}
   - component: {fileID: 1967389051}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89513,7 +90052,7 @@ GameObject:
   - component: {fileID: 1969855867}
   - component: {fileID: 1969855868}
   - component: {fileID: 1969855869}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: tileset_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89819,7 +90358,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1973705485}
   - component: {fileID: 1973705484}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (73)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89984,7 +90523,7 @@ GameObject:
   - component: {fileID: 1976499760}
   - component: {fileID: 1976499759}
   - component: {fileID: 1976499762}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_12 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90224,7 +90763,7 @@ GameObject:
   - component: {fileID: 1977234395}
   - component: {fileID: 1977234394}
   - component: {fileID: 1977234397}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_42 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90416,7 +90955,7 @@ GameObject:
   - component: {fileID: 1977499734}
   - component: {fileID: 1977499737}
   - component: {fileID: 1977499736}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90628,7 +91167,7 @@ GameObject:
   - component: {fileID: 1978746811}
   - component: {fileID: 1978746810}
   - component: {fileID: 1978746813}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_41 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90819,7 +91358,7 @@ GameObject:
   - component: {fileID: 1979314382}
   - component: {fileID: 1979314381}
   - component: {fileID: 1979314384}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_41 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91076,7 +91615,7 @@ GameObject:
   - component: {fileID: 1983367612}
   - component: {fileID: 1983367615}
   - component: {fileID: 1983367614}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_6 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91207,7 +91746,7 @@ GameObject:
   - component: {fileID: 1984032243}
   - component: {fileID: 1984032246}
   - component: {fileID: 1984032245}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_5 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91502,7 +92041,7 @@ GameObject:
   - component: {fileID: 1993191076}
   - component: {fileID: 1993191079}
   - component: {fileID: 1993191078}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92292,7 +92831,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2008509182}
   - component: {fileID: 2008509181}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (70)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93049,7 +93588,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2024645185}
   - component: {fileID: 2024645184}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93132,7 +93671,7 @@ GameObject:
   - component: {fileID: 2027256434}
   - component: {fileID: 2027256435}
   - component: {fileID: 2027256436}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93486,7 +94025,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2031249703}
   - component: {fileID: 2031249702}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (48)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93665,7 +94204,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2033988433}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.62967753, y: -0.3652203, z: 0}
+  m_LocalPosition: {x: 0.618, y: -0.3652203, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 615476157}
@@ -93804,6 +94343,63 @@ Transform:
   m_Father: {fileID: 2070368615}
   m_RootOrder: 348
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2035899186
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2035899187}
+  - component: {fileID: 2035899188}
+  m_Layer: 0
+  m_Name: DamageCollider1 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &2035899187
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2035899186}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 274189043}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &2035899188
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2035899186}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &2038796060
 GameObject:
   m_ObjectHideFlags: 0
@@ -93814,7 +94410,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2038796062}
   - component: {fileID: 2038796061}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (52)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93898,7 +94494,7 @@ GameObject:
   - component: {fileID: 2040597975}
   - component: {fileID: 2040597978}
   - component: {fileID: 2040597977}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94532,7 +95128,7 @@ GameObject:
   - component: {fileID: 2053905426}
   - component: {fileID: 2053905425}
   - component: {fileID: 2053905428}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_12 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94642,7 +95238,7 @@ GameObject:
   - component: {fileID: 2054699409}
   - component: {fileID: 2054699412}
   - component: {fileID: 2054699411}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_5 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95656,7 +96252,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2069835705}
   - component: {fileID: 2069835704}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (66)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96564,7 +97160,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2076968026}
   - component: {fileID: 2076968025}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (69)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96812,7 +97408,7 @@ GameObject:
   - component: {fileID: 2087957793}
   - component: {fileID: 2087957796}
   - component: {fileID: 2087957795}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -97271,7 +97867,7 @@ GameObject:
   - component: {fileID: 2099894442}
   - component: {fileID: 2099894445}
   - component: {fileID: 2099894444}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_24 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98138,7 +98734,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2111042170}
   - component: {fileID: 2111042169}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98221,7 +98817,7 @@ GameObject:
   - component: {fileID: 2111731096}
   - component: {fileID: 2111731095}
   - component: {fileID: 2111731098}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_21 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98576,7 +99172,7 @@ GameObject:
   - component: {fileID: 2114144524}
   - component: {fileID: 2114144525}
   - component: {fileID: 2114144526}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_33 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98685,7 +99281,7 @@ GameObject:
   - component: {fileID: 2115580832}
   - component: {fileID: 2115580831}
   - component: {fileID: 2115580834}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_41 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98793,7 +99389,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2117400430}
   - component: {fileID: 2117400429}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98875,7 +99471,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2121163347}
   - component: {fileID: 2121163346}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: water_8frames_0 (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -99451,7 +100047,7 @@ GameObject:
   - component: {fileID: 2142704078}
   - component: {fileID: 2142704081}
   - component: {fileID: 2142704080}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: oak_woods_tileset_34 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

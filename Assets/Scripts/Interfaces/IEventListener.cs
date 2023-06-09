@@ -4,6 +4,5 @@ using UnityEngine;
 
 public interface IEventListener
 {
-    public abstract IEventHundle EventHundle { get; set; }
     public abstract void ListenerField();
 }
