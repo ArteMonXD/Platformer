@@ -33,6 +33,8 @@ public class PlayerUnit : Unit, ISuperAttack
         {
             eh._event += AttackDo;
         }
+
+        rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame

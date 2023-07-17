@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.InteropServices.WindowsRuntime;
 using UnityEngine;
 
-public class Unit : MonoBehaviour, IAttack, IHealthAndDamage
+public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement
 {
     //0 - Damage Value For Super Attack
     //1 - Damage Value For Attack1
@@ -34,6 +34,17 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage
     public bool IsDead { get { return isDead; } set => isDead = value; }
     [SerializeField] protected UnitDamageDealer damageDealer;
     public IDamageDealer Dealer { get { return damageDealer; }}
+
+    protected Rigidbody2D rb;
+    public Rigidbody2D m_RigidBody { get => rb; }
+
+    [SerializeField] protected float jumpForce;
+    public float JumpForce { get => jumpForce; }
+
+    [SerializeField] protected float speedWalk;
+    public float SpeedWalk { get => speedWalk; }
+    [SerializeField] protected bool isGround;
+    public bool IsGround { get => isGround; }
 
     public virtual void CheckDeath()
     {
@@ -74,5 +85,27 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage
         attackCounter++;
         if(attackCounter >= attackVariantCount)
             attackCounter = 0;
+    }
+
+    public virtual void Movement(float horizontalInput, bool jumpInput)
+    {
+        if (jumpInput)
+            Jump();
+    }
+
+    public virtual void Move()
+    {
+        throw new System.NotImplementedException();
+    }
+
+    public virtual void Jump()
+    {
+        if (isGround)
+            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+    }
+
+    public virtual void CheckGround()
+    {
+        throw new System.NotImplementedException();
     }
 }
