@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.InteropServices.WindowsRuntime;
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D))]
 public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement
 {
     //0 - Damage Value For Super Attack
@@ -45,6 +46,12 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement
     public float SpeedWalk { get => speedWalk; }
     [SerializeField] protected bool isGround;
     public bool IsGround { get => isGround; }
+    [SerializeField] protected float jumpOffset;
+    public float JumpOffset { get => jumpOffset; }
+    [SerializeField] protected Transform footColliderTransform;
+    public Transform FootCollider { get => footColliderTransform; }
+    [SerializeField] protected LayerMask groundLayers;
+    public LayerMask GroundLayers { get => groundLayers; }
 
     public virtual void CheckDeath()
     {
@@ -91,6 +98,8 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement
     {
         if (jumpInput)
             Jump();
+        if (horizontalInput != 0f)
+            Move();
     }
 
     public virtual void Move()
@@ -106,6 +115,7 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement
 
     public virtual void CheckGround()
     {
-        throw new System.NotImplementedException();
+        Vector2 footColliderPos = footColliderTransform.position;
+        isGround = Physics2D.OverlapCircle(footColliderPos, jumpOffset, groundLayers);
     }
 }

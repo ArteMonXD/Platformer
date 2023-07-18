@@ -65,6 +65,12 @@ TagManager:
   - name: Advenured
     uniqueID: 909551217
     locked: 0
+  - name: FrontDecoration
+    uniqueID: 3610365817
+    locked: 0
+  - name: FrontGround
+    uniqueID: 2425607013
+    locked: 0
   - name: Effect
     uniqueID: 2518753017
     locked: 0

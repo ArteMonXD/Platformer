@@ -19,7 +19,6 @@ public class PlayerUnit : Unit, ISuperAttack
     void Start()
     {
         EventHundle[] eventHundles = animationCollection.GetComponents<EventHundle>();
-        Debug.Log(eventHundles.Length);
         animationEvent_SA = eventHundles[0];
         animationEvent_A = new EventHundle[eventHundles.Length - 1];
         for(int i = 0; i < eventHundles.Length -1; i++)
@@ -41,6 +40,10 @@ public class PlayerUnit : Unit, ISuperAttack
     void Update()
     {
         
+    }
+    private void FixedUpdate()
+    {
+        CheckGround();
     }
     public void SuperAttackInit()
     {

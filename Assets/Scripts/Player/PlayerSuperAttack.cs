@@ -13,12 +13,12 @@ public class PlayerSuperAttack : UnitDamageDealer
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (!isAttack)
+        if (!isAttack || (collision.GetComponent<IHealthAndDamage>() != null && (collision.GetComponent<IHealthAndDamage>() as Unit) == (owner as Unit)))
             return;
 
         if (collision.tag == GlobalVar.DAMAGED_TAG && collision.GetComponent<IHealthAndDamage>() != null)
         {
-            (collision.GetComponent<IHealthAndDamage>() as Unit).Damage(damage);
+            MakeDamage(collision.GetComponent<IHealthAndDamage>(), damage);
         }
 
         Destroy(gameObject);

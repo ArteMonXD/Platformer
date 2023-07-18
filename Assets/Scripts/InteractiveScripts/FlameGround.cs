@@ -7,6 +7,6 @@ public class FlameGround : MonoBehaviour, IInteractive
     [SerializeField] private Animator animator;
     public void Execute<T>(T passedObject = default)
     {
-        animator.Play("FlameGround");
+        animator.SetBool("Fire", true);
     }
 }

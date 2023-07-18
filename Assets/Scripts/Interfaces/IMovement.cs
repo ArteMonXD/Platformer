@@ -8,6 +8,9 @@ public interface IMovement
     public abstract float JumpForce { get; }
     public abstract float SpeedWalk { get; }
     public abstract bool IsGround { get; }
+    public abstract float JumpOffset { get; }
+    public abstract Transform FootCollider { get; }
+    public abstract LayerMask GroundLayers { get; }
     public abstract void Movement(float horizontalInput, bool jumpInput);
     public abstract void Move();
     public abstract void Jump();

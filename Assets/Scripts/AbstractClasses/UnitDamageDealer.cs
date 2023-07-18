@@ -18,7 +18,8 @@ public abstract class UnitDamageDealer : MonoBehaviour, IDamageDealer
     }
     public virtual void MakeDamage(IHealthAndDamage DamageRecipient, float damageValue)
     {
-       (DamageRecipient as Unit).Damage(damageValue);
+        if((DamageRecipient as Unit) != (owner as Unit))
+            (DamageRecipient as Unit).Damage(damageValue);
     }
     public virtual void SetAttack(float damageValue, IAttack setOwner)
     {
