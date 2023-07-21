@@ -6,12 +6,20 @@ public interface IAttack
 {
     public abstract IDamageDealer Dealer { get; }
     public abstract byte AttackVariantCount { get; }
+    public abstract byte CrouchAttackVariantCount { get; }
+    public abstract byte FlyAttackVariantCount { get; }
     public abstract float[] DamageAttack { get; }
-    public abstract float this[int index] { get;}
-    public abstract Animator Animator { get; }
+    public abstract float[] DamageCrouchAttack { get; }
+    public abstract float[] DamageFlyAttack { get; }
     public abstract int AttackCounter { get; }
+    public abstract int CrouchAttackCounter { get; }
+    public abstract int FlyAttackCounter { get; }
     public abstract bool IsAttacking { get; }
-
+    public abstract void AttackInput(bool attackInput);
     public abstract void AttackInit();
     public abstract void AttackDo();
+    public abstract void CrouchAttackInit();
+    public abstract void CrouchAttackDo();
+    public abstract void FlyAttackInit();
+    public abstract void FlyAttackDo();
 }

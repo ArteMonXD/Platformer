@@ -5,7 +5,7 @@ using UnityEngine;
 public abstract class UnitDamageDealer : MonoBehaviour, IDamageDealer
 {
     public static int damageID = 0;
-    protected IAttack owner;
+    [SerializeField] protected IAttack owner;
     public IAttack DamageOwner { get { return owner; }}
     protected float damage;
     public float Damage { get { return damage; }}

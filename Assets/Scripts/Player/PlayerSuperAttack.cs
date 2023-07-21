@@ -20,7 +20,7 @@ public class PlayerSuperAttack : UnitDamageDealer
         {
             MakeDamage(collision.GetComponent<IHealthAndDamage>(), damage);
         }
-
+        Debug.Log(collision.gameObject.name);
         Destroy(gameObject);
     }
 }

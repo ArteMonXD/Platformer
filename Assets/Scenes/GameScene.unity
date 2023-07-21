@@ -10459,7 +10459,7 @@ GameObject:
   - component: {fileID: 274189043}
   - component: {fileID: 274189045}
   - component: {fileID: 274189044}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: DamageColliders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14444,7 +14444,7 @@ GameObject:
   m_Component:
   - component: {fileID: 359659505}
   - component: {fileID: 359659506}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: crossed1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14629,7 +14629,7 @@ GameObject:
   m_Component:
   - component: {fileID: 366840601}
   - component: {fileID: 366840602}
-  m_Layer: 3
+  m_Layer: 9
   m_Name: TX Village Props - Platform E
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17640,7 +17640,7 @@ GameObject:
   - component: {fileID: 437932945}
   - component: {fileID: 437932944}
   - component: {fileID: 437932943}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TX Village Props - Crate Large (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21681,7 +21681,7 @@ GameObject:
   - component: {fileID: 543902186}
   - component: {fileID: 543902185}
   - component: {fileID: 543902184}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TX Village Props - Crate Small (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24787,7 +24787,7 @@ GameObject:
   m_Component:
   - component: {fileID: 608787956}
   - component: {fileID: 608787957}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: FootCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24817,7 +24817,7 @@ CircleCollider2D:
   m_GameObject: {fileID: 608787955}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: b8203ad283f34124cb867a45b0ded956, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -25326,7 +25326,6 @@ GameObject:
   m_Component:
   - component: {fileID: 619892896}
   - component: {fileID: 619892897}
-  - component: {fileID: 619892898}
   m_Layer: 3
   m_Name: tileset_9
   m_TagString: Untagged
@@ -25399,42 +25398,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!60 &619892898
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 619892895}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.29, y: 0.32}
-    newSize: {x: 0.29, y: 0.32}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: -0.145, y: 0.16}
-      - {x: -0.13451982, y: 0.06959379}
-      - {x: -0.103004694, y: 0.029055238}
-      - {x: -0.11164057, y: 0.0022283792}
-      - {x: -0.11787355, y: -0.0046715736}
-      - {x: -0.11505665, y: -0.047005698}
-      - {x: -0.0895586, y: -0.061683536}
-      - {x: -0.034234762, y: -0.08227992}
-      - {x: 0.003926363, y: -0.15850273}
-      - {x: 0.145, y: -0.16}
-      - {x: 0.145, y: 0.16}
 --- !u!1 &620483755
 GameObject:
   m_ObjectHideFlags: 0
@@ -26820,7 +26783,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 641631458}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SuperAttackPointStart
   m_TagString: Untagged
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
@@ -26835,7 +26798,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 641631457}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.921, y: 1.15, z: 0}
+  m_LocalPosition: {x: 1.1, y: 1.15, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1957925160}
@@ -41658,7 +41621,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1012329787}
   - component: {fileID: 1012329788}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BodyCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49335,7 +49298,7 @@ GameObject:
   - component: {fileID: 1194642721}
   - component: {fileID: 1194642720}
   - component: {fileID: 1194642724}
-  m_Layer: 3
+  m_Layer: 9
   m_Name: RailsPlatform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49410,7 +49373,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 111ddf57bd2237744906037342b6971c, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -49456,7 +49419,7 @@ GameObject:
   - component: {fileID: 1195683875}
   - component: {fileID: 1195683874}
   - component: {fileID: 1195683873}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TX Village Props - Crate Large (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58656,7 +58619,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1388088711}
   - component: {fileID: 1388088712}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: DamageCollider1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60220,7 +60183,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1419313499}
   - component: {fileID: 1419313500}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: DamageCollider1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -66455,7 +66418,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1568554330
 Transform:
   m_ObjectHideFlags: 0
@@ -69370,7 +69333,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1636213762}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BodyCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75210,7 +75173,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1764991486}
   - component: {fileID: 1764991487}
-  m_Layer: 3
+  m_Layer: 9
   m_Name: TX Village Props - Platform E (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -78976,7 +78939,8 @@ GameObject:
   - component: {fileID: 1855088413}
   - component: {fileID: 1855088412}
   - component: {fileID: 1855088411}
-  m_Layer: 0
+  - component: {fileID: 1855088414}
+  m_Layer: 8
   m_Name: Adventurer_Visual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79116,6 +79080,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: db0adcf29a4ef874aa87a4c272a41c2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1855088414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855088406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90bdf2da9da9e9c42996f638fd684a69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1862802291
@@ -83550,7 +83526,8 @@ GameObject:
   - component: {fileID: 1957925160}
   - component: {fileID: 1957925161}
   - component: {fileID: 1957925162}
-  m_Layer: 0
+  - component: {fileID: 1957925163}
+  m_Layer: 8
   m_Name: Adventurer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -83607,32 +83584,94 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5103978b51a378c409602165110f6db1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackVariantCount: 0
+  attackVariantCount: 2
+  crouchAttackVariantCount: 1
+  flyAttackVariantCount: 1
   damageAttack:
-  - 100
   - 15
   - 20
-  animator: {fileID: 1855088407}
+  damageCrouchAttack:
+  - 10
+  damageFlyAttack:
+  - 10
+  attackCounter: 0
+  crouchAttackCounter: 0
+  flyAttackCounter: 0
   isAttacking: 0
+  damageDealer: {fileID: 274189044}
   maxHealth: 100
   isDead: 0
-  damageDealer: {fileID: 274189044}
-  jumpForce: 0
-  speedWalk: 0
+  isHyperArmor: 0
+  jumpForce: 5
+  speedWalk:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -1
+      value: -4
+      inSlope: 4.1678257
+      outSlope: 4.1678257
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.21059471
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 4
+      inSlope: 5.660375
+      outSlope: 5.660375
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.050000012
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  isRuning: 0
+  isJump: 0
+  isFall: 0
+  isCrouch: 0
   isGround: 0
-  jumpOffset: 0
+  jumpOffset: 0.37
   footColliderTransform: {fileID: 608787956}
   groundLayers:
     serializedVersion: 2
-    m_Bits: 72
+    m_Bits: 584
+  animator: {fileID: 1855088407}
   superAttackStartPoint: {fileID: 641631458}
   superAttackPrefab: {fileID: 5582478504722302970, guid: 0d4a0fff681456149bbb9474070d5c7e, type: 3}
   currentCharge: 100
   maxCharge: 100
   superAttackPrice: 10
+  superAttackVariantCount: 1
+  damageSuperAttack:
+  - 100
+  superAttackCounter: 0
+  isSuperAttacking: 0
   animationCollection: {fileID: 1855088406}
   animationEvent_SA: {fileID: 0}
   animationEvent_A: []
+--- !u!114 &1957925163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1957925159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6abe1ca1b0176d4a927bee8d3c0c8ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1958024544
 GameObject:
   m_ObjectHideFlags: 0
@@ -84383,7 +84422,7 @@ GameObject:
   - component: {fileID: 1977111357}
   - component: {fileID: 1977111356}
   - component: {fileID: 1977111359}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TX Village Props - Crate Small (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87334,7 +87373,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 1
   m_UsedByComposite: 0
-  m_Offset: {x: -0.1193749, y: 0.013094675}
+  m_Offset: {x: -0.11937487, y: 0.061934285}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -87345,7 +87384,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.3768897, y: 0.11498987}
+  m_Size: {x: 1.3768897, y: 0.01731065}
   m_EdgeRadius: 0.156
 --- !u!1 &2031058717
 GameObject:
@@ -87849,7 +87888,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2035899187}
   - component: {fileID: 2035899188}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: DamageCollider1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
