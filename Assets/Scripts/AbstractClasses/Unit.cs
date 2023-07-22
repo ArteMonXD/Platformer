@@ -29,9 +29,16 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement, IAnimat
     public int CrouchAttackCounter => crouchAttackCounter;
     [SerializeField] protected int flyAttackCounter;
     public int FlyAttackCounter => flyAttackCounter;
+    [SerializeField] protected float timeReset;
+    public float ResetTime => timeReset;
     [SerializeField] protected bool isAttacking;
     public bool IsAttacking => isAttacking;
-
+    protected Coroutine timerAttackReset;
+    public Coroutine TimerAttackReset => timerAttackReset;
+    protected Coroutine timerFlyAttackReset;
+    public Coroutine TimerFlyAttackReset => timerFlyAttackReset;
+    protected Coroutine timerCrouchAttackReset;
+    public Coroutine TimerCrouchAttackReset => timerCrouchAttackReset;
     [SerializeField] protected UnitDamageDealer damageDealer;
     public IDamageDealer Dealer => damageDealer;
 
@@ -170,6 +177,7 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement, IAnimat
 
     public virtual void Move(float horizontalInput)
     {
+        ChangeDirection(horizontalInput);
         rb.velocity = new Vector2(speedWalk.Evaluate(horizontalInput), rb.velocity.y);
     }
 
@@ -193,7 +201,17 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement, IAnimat
             isFall = true;
         }
     }
-
+    protected virtual void ChangeDirection(float inputValue)
+    {
+        if(inputValue < 0f)
+        {
+            if (transform.eulerAngles.y != 180) transform.rotation = Quaternion.Euler(transform.eulerAngles.x, 180, transform.eulerAngles.z);
+        }   
+        else if(inputValue > 0f)
+        {
+            if (transform.eulerAngles.y != 0) transform.rotation = Quaternion.Euler(transform.eulerAngles.x, 0, transform.eulerAngles.z);
+        }   
+    }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.layer == LayerMask.NameToLayer(GlobalVar.MOVE_PLATFORM_LAYER))
@@ -210,7 +228,7 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement, IAnimat
             transform.parent = null;
         }
     }
-
+    
     public virtual void AnimationStatusControl()
     {
         throw new System.NotImplementedException();
@@ -220,5 +238,21 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement, IAnimat
     {
         yield return new WaitForSeconds(0.4f);
         isJump = false;
+    }
+
+    public virtual IEnumerator AttackReset()
+    {
+        yield return new WaitForSeconds(timeReset);
+        attackCounter = 0;
+    }
+    public virtual IEnumerator FlyAttackReset()
+    {
+        yield return new WaitForSeconds(timeReset);
+        flyAttackCounter = 0;
+    }
+    public virtual IEnumerator CrouchAttackReset()
+    {
+        yield return new WaitForSeconds(timeReset);
+        crouchAttackCounter = 0;
     }
 }

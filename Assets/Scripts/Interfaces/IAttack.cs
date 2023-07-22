@@ -14,6 +14,10 @@ public interface IAttack
     public abstract int AttackCounter { get; }
     public abstract int CrouchAttackCounter { get; }
     public abstract int FlyAttackCounter { get; }
+    public abstract Coroutine TimerAttackReset { get; }
+    public abstract Coroutine TimerCrouchAttackReset { get; }
+    public abstract Coroutine TimerFlyAttackReset { get; }
+    public abstract float ResetTime { get; }
     public abstract bool IsAttacking { get; }
     public abstract void AttackInput(bool attackInput);
     public abstract void AttackInit();
@@ -22,4 +26,7 @@ public interface IAttack
     public abstract void CrouchAttackDo();
     public abstract void FlyAttackInit();
     public abstract void FlyAttackDo();
+    public abstract IEnumerator AttackReset();
+    public abstract IEnumerator FlyAttackReset();
+    public abstract IEnumerator CrouchAttackReset();
 }

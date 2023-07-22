@@ -90,11 +90,27 @@ public class PlayerUnit : Unit, ISuperAttack
         GameObject currentSA = Instantiate(superAttackPrefab, superAttackStartPoint.position, superAttackStartPoint.rotation);
         PlayerSuperAttack objectSA = currentSA.GetComponent<PlayerSuperAttack>();
         objectSA.SetAttack(damageSuperAttack[0], this);
-        Rigidbody2D currentSA_RB = currentSA.GetComponent<Rigidbody2D>();
-        currentSA_RB.velocity = new Vector2(1 * objectSA.BulletSpeed, currentSA_RB.velocity.y);
         superAttackCounter++;
         if (superAttackCounter >= superAttackVariantCount)
             superAttackCounter = 0;
+    }
+    public override void AttackDo()
+    {
+        if (timerAttackReset != null) StopCoroutine(timerAttackReset);
+        base.AttackDo();
+        if(attackCounter!=0) timerAttackReset = StartCoroutine(AttackReset());
+    }
+    public override void FlyAttackDo()
+    {
+        if (timerFlyAttackReset != null) StopCoroutine(timerFlyAttackReset);
+        base.FlyAttackDo();
+        if(flyAttackCounter != 0) timerFlyAttackReset = StartCoroutine(FlyAttackReset());
+    }
+    public override void CrouchAttackDo()
+    {
+        if (timerCrouchAttackReset != null) StopCoroutine(timerCrouchAttackReset);
+        base.CrouchAttackDo();
+        if(crouchAttackCounter != 0) timerCrouchAttackReset = StartCoroutine(CrouchAttackReset());
     }
     public void UpCharge(float value)
     {
