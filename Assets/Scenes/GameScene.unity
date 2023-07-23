@@ -20588,9 +20588,9 @@ MonoBehaviour:
   yOffset: 2
   deadZone:
   - -3
-  - -1.5
+  - -2
   - 3
-  - 1.5
+  - 2
   target: {fileID: 1957925160}
   follow: 0
 --- !u!20 &519420031
@@ -22765,7 +22765,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!50 &563220545
 Rigidbody2D:
   serializedVersion: 4
@@ -24711,7 +24711,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!61 &606840588
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -36227,7 +36227,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!61 &862291667
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -38355,8 +38355,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 920592268}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.5389993, y: 2.4829996, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 3.542, y: 2.4829996, z: 0}
+  m_LocalScale: {x: 1.0254, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1655086149}
   m_RootOrder: 569
@@ -57947,7 +57947,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!50 &1362897597
 Rigidbody2D:
   serializedVersion: 4
@@ -72270,7 +72270,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!61 &1685231405
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -83935,6 +83935,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 584
   animator: {fileID: 1855088407}
+  jumpCounter: 0
+  jumpCount: 1
   superAttackStartPoint: {fileID: 641631458}
   superAttackPrefab: {fileID: 5582478504722302970, guid: 0d4a0fff681456149bbb9474070d5c7e, type: 3}
   currentCharge: 100
@@ -87239,7 +87241,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!61 &2023846425
 BoxCollider2D:
   m_ObjectHideFlags: 0

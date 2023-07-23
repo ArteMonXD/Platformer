@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class PlayerUnit : Unit, ISuperAttack
 {
+    [SerializeField] private byte jumpCounter;
+    [SerializeField] private byte jumpCount;
     [Header("Super Attack Vars")]
     [SerializeField] private Transform superAttackStartPoint;
     [SerializeField] private GameObject superAttackPrefab;
@@ -22,7 +24,7 @@ public class PlayerUnit : Unit, ISuperAttack
     public int SuperAttackCounter => superAttackCounter;
     [SerializeField] protected bool isSuperAttacking;
     public bool IsSuperAttacking => isSuperAttacking;
-
+    [Header("Animation")]
     [SerializeField] private GameObject animationCollection;
     [SerializeField] private EventHundle animationEvent_SA;
     [SerializeField] private EventHundle[] animationEvent_A;
@@ -89,10 +91,7 @@ public class PlayerUnit : Unit, ISuperAttack
         currentCharge -= superAttackPrice;
         GameObject currentSA = Instantiate(superAttackPrefab, superAttackStartPoint.position, superAttackStartPoint.rotation);
         PlayerSuperAttack objectSA = currentSA.GetComponent<PlayerSuperAttack>();
-        objectSA.SetAttack(damageSuperAttack[0], this);
-        superAttackCounter++;
-        if (superAttackCounter >= superAttackVariantCount)
-            superAttackCounter = 0;
+        objectSA.SetAttack(damageSuperAttack[superAttackCounter], this);
     }
     public override void AttackDo()
     {
@@ -135,9 +134,19 @@ public class PlayerUnit : Unit, ISuperAttack
     }
     public override void Jump()
     {
-        base.Jump();
-        if(isGround)
+        if(isGround || jumpCounter < jumpCount)
+        {
+            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
             isAttacking = false;
+            jumpCounter++;
+        }
+    }
+    public override void CheckGround()
+    {
+        base.CheckGround();
+        Vector2 footColliderPos = footColliderTransform.position;
+        if (Physics2D.OverlapCircle(footColliderPos, jumpOffset, groundLayers))
+            jumpCounter = 0;
     }
 #if UNITY_EDITOR
     [ContextMenu ("Super Attack")]
