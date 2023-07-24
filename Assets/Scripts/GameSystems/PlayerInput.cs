@@ -23,7 +23,6 @@ public class PlayerInput : MonoBehaviour
         var superAttackInput = Input.GetButtonDown(GlobalVar.SUPER_ATTACK_INPUT);
         player.Movement(horizontalInput, jumpInput);
         player.AttackInput(attackInput);
-        if(superAttackInput)
-            player.SuperAttackInit();
+        player.SuperAttackInput(superAttackInput);
     }
 }

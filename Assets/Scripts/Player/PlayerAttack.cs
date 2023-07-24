@@ -4,19 +4,21 @@ using UnityEngine;
 
 public class PlayerAttack : UnitDamageDealer
 {
-    public override void MakeDamage(IHealthAndDamage DamageRecipient, float damageValue)
+    public override bool MakeDamage(IHealthAndDamage DamageRecipient, float damageValue)
     {
-        base.MakeDamage(DamageRecipient, damageValue);
+        return base.MakeDamage(DamageRecipient, damageValue);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (!isAttack)
-            return;
-
-        if(collision.tag == GlobalVar.DAMAGED_TAG && collision.GetComponent<IHealthAndDamage>() != null)
+        IHealthAndDamage damageRecipient = null;
+        if (CheckVictim(collision.gameObject, ref damageRecipient))
         {
-            (collision.GetComponent<IHealthAndDamage>() as Unit).Damage(damage);
+            if (MakeDamage(damageRecipient, damage))
+            {
+                PlayerUnit player = (owner as PlayerUnit);
+                player.UpCharge(player.ChargeProfit);
+            }
         }
     }
 }

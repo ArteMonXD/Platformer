@@ -10,7 +10,7 @@ public interface IHealthAndDamage
     public bool IsHyperArmor { get; }
 
     public void Heal(float healValue);
-    public void Damage(float damage);
+    public void Damage(float damage, IAttack attacker);
     public abstract void CheckDeath();
     public abstract void Death();
 }

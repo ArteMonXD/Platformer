@@ -42,13 +42,12 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement, IAnimat
     [SerializeField] protected UnitDamageDealer damageDealer;
     public IDamageDealer Dealer => damageDealer;
 
-    protected float health;
-    public float Health => health;
-
     [Header("Health Vars")]
+    [SerializeField] protected float health;
+    public float Health => health;
     [SerializeField] protected float maxHealth;
     public float MaxHealth => maxHealth;
-
+    [SerializeField] protected bool isGetDamage;
     [SerializeField] protected bool isDead;
     public bool IsDead => isDead;
     [SerializeField] protected bool isHyperArmor;
@@ -81,23 +80,45 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement, IAnimat
 
     [Header("Animation Vars")]
     [SerializeField] protected Animator animator;
-    public Animator Animator  => animator; 
+    public Animator Animator  => animator;
+    protected bool isDeathAnimation = false;
+    [SerializeField] protected GameObject animationCollection;
+    [SerializeField] protected EventHundle[] animationEvent_A;
     private Coroutine switchJumpCoroutine;
+    protected void InitUnit()
+    {
+        EventHundle[] eventHundles = animationCollection.GetComponents<EventHundle>();
+        animationEvent_A = new EventHundle[attackVariantCount + crouchAttackVariantCount + flyAttackVariantCount];
+
+        for (int i = 0; i < animationEvent_A.Length; i++) animationEvent_A[i] = eventHundles[i];
+        int counter = 0;
+        for (int i = 0; i < attackVariantCount; i++, counter++) animationEvent_A[counter]._event += AttackDo;
+        for (int i = 0; i < crouchAttackCounter; i++, counter++) animationEvent_A[counter]._event += CrouchAttackDo;
+        for (int i = 0; i < flyAttackCounter; i++, counter++) animationEvent_A[counter]._event += FlyAttackDo;
+        health = maxHealth;
+        rb = GetComponent<Rigidbody2D>();
+    }
     public virtual void CheckDeath()
     {
         if (health <= 0)
             Death();
     }
 
-    public virtual void Damage(float damage)
+    public virtual void Damage(float damage, IAttack attacker)
     {
         health -= damage;
+        if(!isAttacking)
+            isGetDamage = true;
         CheckDeath();
+        if(health < 0)
+            health = 0;
     }
 
     public virtual void Death()
     {
+        rb.velocity = Vector2.zero;
         isDead = true;
+        health = 0;
     }
 
     public virtual void Heal(float healValue)
@@ -109,6 +130,9 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement, IAnimat
     }
     public virtual void AttackInput(bool attackInput)
     {
+        if (isDead)
+            return;
+
         isAttacking = attackInput;
         if(isAttacking)
             AttackInit();
@@ -155,13 +179,12 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement, IAnimat
     }
     public virtual void Movement(float horizontalInput, bool jumpInput)
     {
+        if (isDead)
+            return;
+
         if (jumpInput)
         {
-            Jump();
-            isJump = true;
-            if (switchJumpCoroutine != null)
-                StopCoroutine(switchJumpCoroutine);
-            switchJumpCoroutine = StartCoroutine(SwitchJumpStatus());
+            if(JumpCheck()) Jump();
         }
 
         if (Mathf.Abs(horizontalInput) > 0.1f)
@@ -180,11 +203,17 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement, IAnimat
         ChangeDirection(horizontalInput);
         rb.velocity = new Vector2(speedWalk.Evaluate(horizontalInput), rb.velocity.y);
     }
-
+    public virtual bool JumpCheck()
+    {
+        return isGround;
+    }
     public virtual void Jump()
     {
-        if (isGround)
-            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+        rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+        isJump = true;
+        if (switchJumpCoroutine != null)
+            StopCoroutine(switchJumpCoroutine);
+        switchJumpCoroutine = StartCoroutine(SwitchJumpStatus());
     }
 
     public virtual void CheckGround()
@@ -214,19 +243,12 @@ public class Unit : MonoBehaviour, IAttack, IHealthAndDamage, IMovement, IAnimat
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.layer == LayerMask.NameToLayer(GlobalVar.MOVE_PLATFORM_LAYER))
-        {
-            Debug.Log("Enter" + collision.gameObject.name);
-            this.transform.parent = collision.transform;
-        }
+        if (collision.gameObject.layer == LayerMask.NameToLayer(GlobalVar.MOVE_PLATFORM_LAYER)) transform.parent = collision.transform;
     }
     private void OnCollisionExit2D(Collision2D collision)
     {
         //Debug.Log("Exit" + collision.gameObject.name);
-        if (collision.gameObject.layer == LayerMask.NameToLayer(GlobalVar.MOVE_PLATFORM_LAYER))
-        {
-            transform.parent = null;
-        }
+        if (collision.gameObject.layer == LayerMask.NameToLayer(GlobalVar.MOVE_PLATFORM_LAYER)) transform.parent = null;
     }
     
     public virtual void AnimationStatusControl()

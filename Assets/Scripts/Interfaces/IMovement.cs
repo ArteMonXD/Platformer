@@ -14,6 +14,7 @@ public interface IMovement
     public abstract LayerMask GroundLayers { get; }
     public abstract void Movement(float horizontalInput, bool jumpInput);
     public abstract void Move(float inputValue);
+    public abstract bool JumpCheck();
     public abstract void Jump();
     public abstract void CheckGround();
 }

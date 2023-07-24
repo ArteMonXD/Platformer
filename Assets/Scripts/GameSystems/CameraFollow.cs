@@ -16,6 +16,9 @@ public class CameraFollow : MonoBehaviour
 
     void Update()
     {
+        if (target == null)
+            return;
+
         if (CheckDeadZone())
             SetFollow();
 

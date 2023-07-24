@@ -5,7 +5,7 @@ using UnityEngine;
 public static class GlobalVar
 {
     #region Tags
-    public static string DAMAGED_TAG = "Damaged";
+
     #endregion
     #region PlayerAnimationVar
     public static string PA_SUPER_ATTACK = "IsSuperAttack";
@@ -15,6 +15,12 @@ public static class GlobalVar
     public static string PA_FALLING = "IsFall";
     public static string PA_GROUNDED = "IsGrounded";
     public static string PA_ATTACK_COUNTER = "IsAttackClickCounter";
+    public static string PA_DEATH = "IsDeathTrigger";
+    #endregion
+    #region BanditEnemyAnimationVar
+    public static string BEA_ATTACK = "IsAttack";
+    public static string BEA_HURT = "IsHurt";
+    public static string BEA_DEATH = "IsDeathTrigger";
     #endregion
     #region PlayerInput
     public static string VERTICAL_AXIS = "Vertical";
@@ -25,5 +31,7 @@ public static class GlobalVar
     #endregion
     #region Layers
     public static string MOVE_PLATFORM_LAYER = "MovePlatform";
+    public static string WATER_LAYER = "Water";
+    public static string DAMAGE_LAYER = "Damage";
     #endregion
 }
